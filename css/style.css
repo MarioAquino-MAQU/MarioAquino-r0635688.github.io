@@ -196,26 +196,22 @@ ul.button li a:hover{
 	color:#808080;
 }
 .creative{
-	background-image:url(../images/angular-icon.png);
-	width:108px;
-	height:108px;
+	background-image:url(../images/angular.png);
+	width:256px;
+	height:256px;
 	margin:0 auto;
 }
 .skills{
-	background: url(../images/icons.png) no-repeat -109px 0px;
-	width:108px;
-	height:108px;
+	background: url(../images/dotnet.png);
+	width:256px;
+	height:256px;
 	margin:0 auto;
 }
 .help{
-	background: url(../images/spring.png) no-repeat;
-	width:156px;
-	height:108px;
+	background: url(../images/springboot.png);
+	width:256px;
+	height:256px;
 	margin:0 auto;
-}
-
-.service-middle:hover div.skills{
-	background: url(../images/icons.png) no-repeat -109px -115px;
 }
 
 /*-- stories --*/
@@ -237,9 +233,6 @@ ul.button li a:hover{
 	color: #808080;
 	margin: 1em 0 0 0;
 	font-size: 16px
-}
-.stories-grids{
-	border:solid 1px #808080;
 }
 .stories-grid-left img {
     width: 100%;
